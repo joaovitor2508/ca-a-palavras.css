@@ -21,3 +21,8 @@ input{
   height: 2%;
   float: left;
 }
+.numero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
